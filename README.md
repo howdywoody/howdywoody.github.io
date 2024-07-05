@@ -1,3 +1,3 @@
-# pianfan.github.io
-
-My Personal Blog via GitHub
+# howdywoody.github.io
+This is my Personal Blog via GitHub
+Howdy,strangers.
