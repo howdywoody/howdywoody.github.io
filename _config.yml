@@ -17,17 +17,12 @@ paginate: 8
 excerpt_separator: <!-- more -->
 
 footer-links:
-  zhihu: 
-  email: xiongyunhan@outlook.com
-  facebook:
-  github: pianfan
-  rss: # just type anything here for a working RSS icon
-  twitter: 
-  youtube:
+  Email: 418722648@qq.com
+  github: howdywoody
 
-footer-text: Copyright (c) 2024 Pianfan
+footer-text: Copyright (c) 2024 howdywoody
 
-url: https://pianfan.github.io
+url: https://howdywoody.github.io
 
 permalink: /:title/
 paginate_path: /page:num/
