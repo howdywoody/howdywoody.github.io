@@ -6,7 +6,7 @@ permalink: /about/
 
 ## 关于我
 
-Howdy, strangers. I'm Woody, a indefinable guy.
+Howdy, strangers. I'm Woody, an indefinable guy.
 
 这是我基于 GitHub Pages 平台创建的个人博客，用于记录和分享我的学习心得与成长收获。
 
