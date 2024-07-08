@@ -1,8 +1,8 @@
 name: "Woody's blog"
 description: "Welcome to your visit and click."
 
-avatar: https://howdywoody.github.io/images/motoavatar.png
-favicon: https://howdywoody.github.io/images/motoavatar.png
+avatar: https://howdywoody.github.io/_images/motoavatarcycle.png
+favicon: https://howdywoody.github.io/_images/motoavatarcycle.png
 
 navigation:
   - name: 首页
