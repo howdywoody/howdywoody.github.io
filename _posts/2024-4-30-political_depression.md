@@ -6,6 +6,7 @@ tags: [Psychology,Social_Phenomenon]
 comments: true
 author: Woody
 ---
+
 In recent years, the concept of political depression has been appearing more frequently among us. 
 
 What exactly is it? And how should we understand it and overcome it? 
