@@ -4,7 +4,7 @@ title: "Some Discussion About Political Depression"
 date:   2024-4-30
 tags: [Psychology,Social_Phenomenon]
 comments: true
-author: Woody
+author: woody
 ---
 
 In recent years, the concept of political depression has been appearing more frequently among us. 
