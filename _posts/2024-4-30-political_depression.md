@@ -2,7 +2,7 @@
 layout: post
 title: "Some Discussion About Political Depression"
 date:   2024-4-30
-tags: [Psychology,Social_Phenomenon]
+tags: [Psychology,Social_Observation]
 comments: true
 author: Woody
 ---
