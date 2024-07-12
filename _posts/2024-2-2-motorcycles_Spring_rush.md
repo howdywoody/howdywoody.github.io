@@ -2,7 +2,7 @@
 layout: post
 title: "摩托春运在中国"
 date:   2024-2-2
-tags: [Social_Phenomenon,Motorcycle]
+tags: [Social_Observation,Motorcycle]
 comments: true
 author: Woody
 ---
