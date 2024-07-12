@@ -2,7 +2,7 @@
 layout: post
 title: "中国人最深的爱国主义在为亚运会让道"
 date:   2023-9-18
-tags: [Social_Commentary]
+tags: [Social_Observation]
 comments: true
 author: Woody
 ---
