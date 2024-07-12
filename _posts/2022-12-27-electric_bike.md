@@ -2,7 +2,7 @@
 layout: post
 title: "新国标电动车标准 制定之罪"
 date:   2022-12-27
-tags: [Social_Commentary]
+tags: [Social_Observation]
 comments: true
 author: Woody
 ---
