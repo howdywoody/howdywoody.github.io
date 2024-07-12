@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Get Acquaintance With Meditation_十分钟冥想简读"
-date:   2023-7-3
+date:   2024-7-3
 tags: [Psychology, ]
 comments: true
 author: Woody
