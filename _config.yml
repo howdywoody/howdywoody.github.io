@@ -1,15 +1,15 @@
 name: "Woody's blog"
 description: "Welcome to your visit and click."
 
-avatar: https://howdywoody.github.io/images/motoavatarcycle.png
+avatar: https://howdywoody.github.io/images/IMG_8194.JPG         
 favicon: https://howdywoody.github.io/images/motoavatarcycle.png
 
 navigation:
-  - name: 首页
+  - name: 首页 HomePage      
     url: /
-  - name: 关于
+  - name: 关于 About  
     url: /about
-  - name: 分类
+  - name: 分类 Tags  
     url: /tags
 
 paginate: 8
